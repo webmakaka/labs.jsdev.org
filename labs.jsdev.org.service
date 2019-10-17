@@ -1,0 +1,21 @@
+[Unit]
+Description=labs.jsdev.org
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill labs.jsdev.org
+ExecStartPre=-/usr/bin/docker rm labs.jsdev.org
+ExecStartPre=-/usr/bin/docker pull marley/labs.jsdev.org:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name labs.jsdev.org   \
+ -p 4008:80                        \
+ marley/labs.jsdev.org'
+ExecStop=-/usr/bin/docker kill labs.jsdev.org
+ExecStop=-/usr/bin/docker rm labs.jsdev.org
+
+[Install]
+WantedBy=multi-user.target
