@@ -8,21 +8,23 @@ permalink: /
 
 <br/>
 
-### Plans
+### Plans for study
 
-- <a href="https://github.com/marley-nodejs/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
+- <a href="https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [2018, ENG]</a>
 
-- <a href="https://github.com/marley-nodejs/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
+- [Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
 
-- <a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]~~</a>
+- [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
 
-- <a href="https://github.com/marley-nodejs/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]~~</a>
+- [frontendmasters.com] Intermediate React, v2 [2019, ENG]
 
-- <a href="https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">~~[Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]~~</a>
+<br/>
 
-* <a href="https://github.com/marley-nodejs/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
+### May be later
 
-* <a href="https://github.com/marley-nodejs/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
+- <a href="https://github.com/marley-nodejs/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
+
+- <a href="https://github.com/marley-nodejs/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
 
 * [Reed Barger] Universal React with Next.js - The Ultimate Guide [2018, ENG]
 
@@ -37,10 +39,6 @@ permalink: /
 * [Stephen Grider] The Complete React Native and Redux Course [ENG]
 
 * [Stephen Grider] React Native: Advanced Concepts [ENG]
-
-<br/>
-
-**and maybe later**
 
 - [Traversy Media
   ] Build a Node.js App With Sequelize [2018, ENG] - https://www.youtube.com/watch?v=bOHysWYMZM0
@@ -65,33 +63,33 @@ permalink: /
 - [Lynda.com Sasha Vodnik] JavaScript: Closures [2018, ENG]
 - [Lynda] Node.js: Design Patterns [2018, ENG]
 
-- <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">~~[Lynda, Ray Villalobos] Learning Angular [2018, ENG]~~</a>
-- Blockchain Development With NodeJS (https://www.youtube.com/watch?v=av9HRXEVDWc)
-- Learn Angular 5 in 30 minutes Eduonix (https://www.youtube.com/watch?v=_tEZgpmxKck)
-- Machine Learning Tutorial for Beginners - USING JAVASCRIPT! (https://www.youtube.com/watch?v=9Hz3P1VgLz4&t=0s)
+* Blockchain Development With NodeJS (https://www.youtube.com/watch?v=av9HRXEVDWc)
+* Learn Angular 5 in 30 minutes Eduonix (https://www.youtube.com/watch?v=_tEZgpmxKck)
+* Machine Learning Tutorial for Beginners - USING JAVASCRIPT! (https://www.youtube.com/watch?v=9Hz3P1VgLz4&t=0s)
 
 <br/>
 
-**and watch again**
+### Watched
 
-<br/>
+- <a href="https://github.com/marley-nodejs/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
 
-- ~~Docker for Web Developers [2016, ENG]~~
+- <a href="https://github.com/marley-nodejs/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
+
+- <a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]~~</a>
+
+- <a href="https://github.com/marley-nodejs/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]~~</a>
+
+- <a href="https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">~~[Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]~~</a>
 
 - <a href="https://github.com/marley-nodejs/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">~~[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]~~</a>
+
 - ~~Creating Apps With Angular, Node, and Token Authentication [2014, ENG]~~
+
+* <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">~~[Lynda, Ray Villalobos] Learning Angular [2018, ENG]~~</a>
 
 <br/>
 
-### Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)
-
-<div align="center">
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/jiZh6ERmRkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
-
-<a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:0::::P149_EVENT_ID:5725">Link</a>
+**Join telegram group for discussions: https://t.me/jsdev_org**
 
 <br/>
 
