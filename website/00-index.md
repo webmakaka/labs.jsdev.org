@@ -10,19 +10,25 @@ permalink: /
 
 ### Plans for study
 
-- <a href="https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
+- [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
+
+- [frontendmasters.com] Intermediate React, v2 [2019, ENG]
 
 * [Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
-
-* [wesbos.com] Advanced React and GraphQL [2020, ENG] (Will be updated in january 2020 by author)
-
-* [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
-
-* [frontendmasters.com] Intermediate React, v2 [2019, ENG]
 
 <br/>
 
 ### May be later
+
+- [John Smilga] React Tutorial and Projects Course
+
+* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in january 2020 by author)
+
+- [Stephen Grider] Modern React with Redux [2019 Update]</a>
+
+<br/>
+
+### Possible can be interesting
 
 - <a href="https://github.com/marley-nodejs/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
 
@@ -72,6 +78,8 @@ permalink: /
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
 
 - <a href="https://github.com/marley-nodejs/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
 
