@@ -15,16 +15,6 @@ permalink: /sitemap/
 
 <br/>
 
-## Environment:
-
-<a href="/env/">Environment</a> <br/>
-
-Server::: coreos (actually not, but I want to start use this linux) -> docker -> debian jessie -> git -> webpack
-
-Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> nodejs -> webpack --> atom
-
-<br/>
-
 ## Tasks Runner | Preprocessors
 
 <a href="/tasks-runner/webpack/" rel="nofollow">Webpack</a> ||
