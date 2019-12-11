@@ -10,19 +10,15 @@ permalink: /
 
 ### Plans for study
 
-- [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
-
-- [frontendmasters.com] Intermediate React, v2 [2019, ENG]
-
 * [Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
+
+* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in january 2020 by author)
 
 <br/>
 
 ### May be later
 
 - [John Smilga] React Tutorial and Projects Course
-
-* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in january 2020 by author)
 
 - [Stephen Grider] Modern React with Redux [2019 Update]</a>
 

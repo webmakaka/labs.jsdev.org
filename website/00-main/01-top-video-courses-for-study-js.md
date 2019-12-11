@@ -14,6 +14,8 @@ My (Marley) opinion!
 
 ### React
 
+I do not recommend to study anything earlier than 2020.
+
 - [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
 
 - [frontendmasters.com] Intermediate React, v2 [2019, ENG]
