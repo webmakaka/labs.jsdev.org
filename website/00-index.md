@@ -20,7 +20,7 @@ permalink: /
 
 - [John Smilga] React Tutorial and Projects Course
 
-- [Stephen Grider] Modern React with Redux [2019 Update]</a>
+- [Stephen Grider] Modern React with Redux [2019 Update]
 
 <br/>
 

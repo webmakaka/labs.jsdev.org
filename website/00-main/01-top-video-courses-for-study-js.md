@@ -1,14 +1,23 @@
 ---
 layout: page
-title: Top 10 Video Courses for javascript (frameworks) development
+title: Top Video Courses For Study JS
 permalink: /top-video-courses-for-study-js/
 ---
 
-# Top 10 Video Courses for javascript development by Frameworks
+# Top Video Courses For Study JS
 
 <br/>
 
 My (Marley) opinion!
+
+<br/>
+
+### JavaScript for beginners
+
+Possible:
+
+- [Udemy. Colt Steele, Stephen Grider] The New Modern Javascript Bootcamp (2020) [2019, ENG]
+
 
 <br/>
 
