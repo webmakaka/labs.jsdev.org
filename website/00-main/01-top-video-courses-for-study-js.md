@@ -17,6 +17,7 @@ My (Marley) opinion!
 Possible:
 
 - [Udemy. Colt Steele, Stephen Grider] The New Modern Javascript Bootcamp (2020) [2019, ENG]
+- [Udemy, Andrew Mead] The Modern JavaScript Bootcamp [2018, ENG]
 
 
 <br/>

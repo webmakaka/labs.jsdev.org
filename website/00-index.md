@@ -10,7 +10,7 @@ permalink: /
 
 ### Plans for study
 
-* [Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
+* <a href="https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]</a>
 
 * [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in january 2020 by author)
 
@@ -96,6 +96,52 @@ permalink: /
 <br/>
 
 **Join telegram group for discussions: https://t.me/jsdev_org**
+
+<br/>
+
+### [YouTube, The Net Ninja] React Native Tutorial
+
+**Hope this guy will teach me react native**
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<br/>
+
+### [Traversy Media] 20+ Developer YouTube Channels To Follow
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/BZRLKDlSaAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [Traversy Media] Web Development In 2020 - A Practical Guide
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/0pThnRneDjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [Traversy Media] Before Learning a JavaScript Framework...
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Cm3U-NgJb9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [YouTube, The Net Ninja] React Context & Hooks Tutorial
+
+**Looks like i should study it**
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <br/>
 
