@@ -6,6 +6,8 @@ permalink: /frontend/react/
 
 # React.js
 
+<br/>
+
 ### [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/README.md)
 
 <br/>
@@ -67,7 +69,6 @@ permalink: /frontend/react/
 
 
 <ul>
-    <li><a href="/frontend/react/the-complete-react-web-developer-course-2nd-edition/">[Udemy] The Complete React Web Developer Course (2nd Edition) [2017, ENG]</a></li>
     <li><a href="https://github.com/marley-nodejs/the-complete-react-web-app-developer-course">[Udemy] The Complete React Web App Developer Course [2016, ENG]</a></li>
     <li><a href="https://github.com/marley-nodejs/reactjs-and-flux-learn-by-building-10-projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
 </ul>
