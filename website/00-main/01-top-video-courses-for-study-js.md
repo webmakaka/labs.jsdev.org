@@ -30,6 +30,8 @@ I do not recommend to study anything earlier than 2020.
 
 - [frontendmasters.com] Intermediate React, v2 [2019, ENG]
 
+[link](https://github.com/marley-nodejs/complete-intro-to-react-v5)
+
 <br/>
 
 ### Node.js
@@ -67,3 +69,11 @@ I do not recommend to study anything earlier than 2020.
 - <a href="https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0" rel="nofollow">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]</a>
 
 - <a href="https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [2018, ENG]</a>
+
+<br/>
+
+### Microservices. Splitting monolith project.
+
+docker, pm2
+
+<a href="https://github.com/marley-nodejs/Mastering-Node.js-11.x">[Packt, Dimitris Loukas] Mastering Node.js 11.x. [February 28, 2019, ENG]</a>
