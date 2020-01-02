@@ -99,6 +99,14 @@ permalink: /
 
 **Join telegram group for discussions: https://t.me/jsdev_org**
 
+<br/>
+
+### [Traversy Media] JavaScript ES2020 awesome new features.
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/3oefKzjCU4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <br/>
 
