@@ -8,6 +8,14 @@
 
     <!-- Google Analitics -->
 
+    <div align="center">
+      {% if page.keywords %}
+      <p>
+        <strong>Tags:</strong> {{ page.keywords | strip_html | strip_newlines |
+        truncate: 160 }} {% endif %}
+      </p>
+    </div>
+
     <p align="center">
       Opensource project with codes on
       <a href="https://github.com/marley-nodejs/labs.jsdev.org">github</a>.
