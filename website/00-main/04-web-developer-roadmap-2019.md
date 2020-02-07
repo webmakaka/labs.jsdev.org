@@ -14,7 +14,7 @@ permalink: /web-developer-roadmap-2019/
 <br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/intro.png" alt="Introduction" />
+    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png" alt="Introduction" />
 </div>
 
 
@@ -26,7 +26,7 @@ permalink: /web-developer-roadmap-2019/
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png" alt="Front-end Roadmap" />
+    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png" alt="Front-end Roadmap" />
 </div>
 
 
@@ -38,7 +38,7 @@ permalink: /web-developer-roadmap-2019/
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png" alt="Back-end Roadmap" />
+    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png" alt="Back-end Roadmap" />
 </div>
 
 
@@ -50,7 +50,7 @@ permalink: /web-developer-roadmap-2019/
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/devops.png" alt="devops">
+    <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png" alt="devops">
 </div>
 
 
