@@ -10,9 +10,11 @@ permalink: /
 
 ### Plans for study
 
+* [Stephen Grider] The Modern Angular Bootcamp [2020]
+
 * <a href="https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]</a>
 
-* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in january 2020 by author)
+* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in 2020 by author)
 
 <br/>
 
