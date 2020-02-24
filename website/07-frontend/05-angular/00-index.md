@@ -8,12 +8,12 @@ permalink: /frontend/angular/
 
 
 ### Building an Angular Application with Node and Token Authentication  
-https://github.com/marley-nodejs/building-an-angular-application-with-node-and-token-authentication
+https://github.com/webmakaka/building-an-angular-application-with-node-and-token-authentication
 
 <br/>
 
 ### [Udemy] Complete Modern Amazon clone: Angular 5 and Node.js   
-https://github.com/marley-nodejs/Complete-Modern-Amazon-clone-Angular-5-and-Node.js
+https://github.com/webmakaka/Complete-Modern-Amazon-clone-Angular-5-and-Node.js
 
 
 

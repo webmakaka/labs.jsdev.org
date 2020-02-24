@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=7giZGFDGnkc
 
 ### [Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]
 
-https://github.com/marley-nodejs/Full-Stack-React-with-GraphQL-and-Apollo-Boost
+https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost
 
 <br/>
 
 ### Udemy, Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]
 
-https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp
+https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp

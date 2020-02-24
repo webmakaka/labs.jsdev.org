@@ -12,7 +12,7 @@ permalink: /
 
 * [Stephen Grider] The Modern Angular Bootcamp [2020]
 
-* <a href="https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]</a>
+* <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]</a>
 
 * [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in 2020 by author)
 
@@ -32,9 +32,9 @@ permalink: /
 
 ### Possible can be interesting
 
-- <a href="https://github.com/marley-nodejs/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
+- <a href="https://github.com/webmakaka/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
 
-- <a href="https://github.com/marley-nodejs/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
+- <a href="https://github.com/webmakaka/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
 
 * [Reed Barger] Universal React with Next.js - The Ultimate Guide [2018, ENG]
 
@@ -79,19 +79,19 @@ permalink: /
 
 ### Watched
 
-- <a href="https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
 
-- <a href="https://github.com/marley-nodejs/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
+- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
 
-- <a href="https://github.com/marley-nodejs/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
 
-- <a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]~~</a>
 
-- <a href="https://github.com/marley-nodejs/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]~~</a>
 
-- <a href="https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">~~[Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">~~[Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]~~</a>
 
-- <a href="https://github.com/marley-nodejs/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">~~[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]~~</a>
+- <a href="https://github.com/webmakaka/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">~~[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]~~</a>
 
 - ~~Creating Apps With Angular, Node, and Token Authentication [2014, ENG]~~
 

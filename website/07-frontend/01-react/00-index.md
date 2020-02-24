@@ -18,28 +18,28 @@ permalink: /frontend/react/
 
 - [frontendmasters.com] Intermediate React, v2 [2019, ENG]
 
-[link](https://github.com/marley-nodejs/complete-intro-to-react-v5)
+[link](https://github.com/webmakaka/complete-intro-to-react-v5)
 
 
 <br/>
 
 ### [Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
 
-[link](https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL)
+[link](https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL)
 
 
 <br/>
 
 ### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]
 
-[link](https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0)
+[link](https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0)
 
 
 <br/>
 
 ### [Udemy] The React practice course, learn by building projects [2018, ENG]
 
-[link](https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects)
+[link](https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects)
 
 
 <br/>
@@ -69,7 +69,7 @@ permalink: /frontend/react/
 
 
 <ul>
-    <li><a href="https://github.com/marley-nodejs/the-complete-react-web-app-developer-course">[Udemy] The Complete React Web App Developer Course [2016, ENG]</a></li>
-    <li><a href="https://github.com/marley-nodejs/reactjs-and-flux-learn-by-building-10-projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
+    <li><a href="https://github.com/webmakaka/the-complete-react-web-app-developer-course">[Udemy] The Complete React Web App Developer Course [2016, ENG]</a></li>
+    <li><a href="https://github.com/webmakaka/reactjs-and-flux-learn-by-building-10-projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
 </ul>
 

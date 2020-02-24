@@ -16,4 +16,4 @@ permalink: /databases/postgresql/
 
 ### Basic example
 
-https://github.com/marley-nodejs/ReactJS-and-PostgreSQL-Full-Stack-Application
+https://github.com/webmakaka/ReactJS-and-PostgreSQL-Full-Stack-Application
