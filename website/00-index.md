@@ -85,7 +85,7 @@ permalink: /
 
 - <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
 
-- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]~~</a>
 
 - <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [2018, ENG]~~</a>
 

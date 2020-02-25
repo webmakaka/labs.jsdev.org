@@ -48,7 +48,7 @@ I do not recommend to study anything earlier than 2020.
 
 ### GraphQL
 
-- [Udemy, Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]
+- [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]
 
 <br/>
 
