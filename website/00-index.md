@@ -10,11 +10,11 @@ permalink: /
 
 ### Plans for study
 
-* [Stephen Grider] The Modern Angular Bootcamp [2020]
+* [Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]
 
-* <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]</a>
+* <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]</a>
 
-* [wesbos.com] Fullstack Advanced React & GraphQL [2020, ENG] (Will be updated in 2020 by author)
+* [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
 
 <br/>
 
