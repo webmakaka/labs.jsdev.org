@@ -28,15 +28,15 @@ permalink: /
 
 ### Possible can be interesting
 
-- [Stephen Grider] GraphQL with React: The Complete Developers Guide [2019 Update, ENG](---)
+- \_ [Stephen Grider] GraphQL with React: The Complete Developers Guide [2019 Update, ENG]
 
 - [John Smilga] React Tutorial and Projects Course
 
 - [Stephen Grider] Node JS: Advanced Concepts [2019 Update, ENG]
 
-- [Stephen Grider] Modern React with Redux [2019 Update, ENG](---)
+- \_ [Stephen Grider] Modern React with Redux [2019 Update, ENG]
 
-- <a href="https://github.com/webmakaka/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
+- [Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]
 
 - <a href="https://github.com/webmakaka/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
 
