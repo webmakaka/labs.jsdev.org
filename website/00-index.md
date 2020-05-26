@@ -10,7 +10,9 @@ permalink: /
 
 ### Plans for study
 
-- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
+- [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
+
+- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
 
 <br/>
 
