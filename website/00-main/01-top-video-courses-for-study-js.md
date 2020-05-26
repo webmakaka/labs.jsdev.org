@@ -19,7 +19,6 @@ Possible:
 - [Udemy. Colt Steele, Stephen Grider] The New Modern Javascript Bootcamp (2020) [2019, ENG]
 - [Udemy, Andrew Mead] The Modern JavaScript Bootcamp [2018, ENG]
 
-
 <br/>
 
 ### React
@@ -42,7 +41,7 @@ I do not recommend to study anything earlier than 2020.
 
 ### TypeScript
 
-- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2019, ENG]
+- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
 
 <br/>
 

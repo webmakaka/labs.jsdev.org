@@ -10,27 +10,29 @@ permalink: /
 
 ### Plans for study
 
-* [Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]
-
-* <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]</a>
-
-* [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
+- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
 
 <br/>
 
 ### May be later
 
-- [Stephen Grider] GraphQL with React: The Complete Developers Guide [2019 Update, ENG] (---)
+- [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
+
+- [React12] Build an Instagram Clone with React
+
+- [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
+
+<br/>
+
+### Possible can be interesting
+
+- [Stephen Grider] GraphQL with React: The Complete Developers Guide [2019 Update, ENG](---)
 
 - [John Smilga] React Tutorial and Projects Course
 
 - [Stephen Grider] Node JS: Advanced Concepts [2019 Update, ENG]
 
-- [Stephen Grider] Modern React with Redux [2019 Update, ENG] (---)
-
-<br/>
-
-### Possible can be interesting
+- [Stephen Grider] Modern React with Redux [2019 Update, ENG](---)
 
 - <a href="https://github.com/webmakaka/Ethereum-and-Solidity-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [2018, ENG]</a>
 
@@ -79,6 +81,10 @@ permalink: /
 
 ### Watched
 
+- <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">~~[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]~~</a>
+
+- <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">~~[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]~~</a>
+
 - <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
 
 - <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
@@ -109,7 +115,6 @@ permalink: /
     <iframe width="853" height="480" src="https://www.youtube.com/embed/3oefKzjCU4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 <br/>
 
 ### [Traversy Media] 20+ Developer YouTube Channels To Follow
@@ -133,8 +138,6 @@ permalink: /
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/Cm3U-NgJb9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
 
 <br/>
 
