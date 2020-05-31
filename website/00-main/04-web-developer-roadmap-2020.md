@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Web Developer Roadmap 2019
-permalink: /web-developer-roadmap-2019/
+title: Web Developer Roadmap 2020
+permalink: /web-developer-roadmap-2020/
 ---
 
-
-# Web Developer Roadmap 2019
+# Web Developer Roadmap 2020
 
 <br/>
 
@@ -17,18 +16,15 @@ permalink: /web-developer-roadmap-2019/
     <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png" alt="Introduction" />
 </div>
 
-
 <br/>
 
 ### Front-end Roadmap
 
 <br/>
 
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png" alt="Front-end Roadmap" />
 </div>
-
 
 <br/>
 
@@ -36,11 +32,9 @@ permalink: /web-developer-roadmap-2019/
 
 <br/>
 
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png" alt="Back-end Roadmap" />
 </div>
-
 
 <br/>
 
@@ -48,11 +42,9 @@ permalink: /web-developer-roadmap-2019/
 
 <br/>
 
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png" alt="devops">
 </div>
-
 
 <br/>
 <hr/>
