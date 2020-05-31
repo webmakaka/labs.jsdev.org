@@ -10,9 +10,9 @@ permalink: /
 
 ### Plans for study
 
-- [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
+- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]</a>
 
-- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
+- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [2020, ENG]
 
 <br/>
 
@@ -82,6 +82,8 @@ permalink: /
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">~~[Stephen Grider] Microservices with Node JS and React [ENG, 2020]~~</a>
 
 - <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">~~[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]~~</a>
 
