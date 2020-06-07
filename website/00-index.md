@@ -10,17 +10,15 @@ permalink: /
 
 ### Plans for study
 
-- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]</a>
+- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
 
-- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [2020, ENG]
+- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
 
 <br/>
 
 ### May be later
 
 - [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
-
-- [React12] Build an Instagram Clone with React
 
 - [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
 
@@ -83,17 +81,19 @@ permalink: /
 
 ### Watched
 
+- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">~~[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]~~</a>
+
 - <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">~~[Stephen Grider] Microservices with Node JS and React [ENG, 2020]~~</a>
 
 - <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">~~[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]~~</a>
 
 - <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">~~[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]~~</a>
 
-- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [2018, ENG]~~</a>
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [ENG, 2018]~~</a>
 
-- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [Udemy, ENG, 2017]~~</a>
+- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [ENG, 2017]~~</a>
 
-- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [Udemy, ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [ENG, 2018]~~</a>
 
 - <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]~~</a>
 
