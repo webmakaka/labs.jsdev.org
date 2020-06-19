@@ -18,6 +18,10 @@ permalink: /
 
 ### May be later
 
+- [ReactTraining] Learn React Hooks By Building A Real Application [ENG, 2020]
+
+- [NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]
+
 - [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
 
 - [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
