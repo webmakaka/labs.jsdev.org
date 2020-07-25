@@ -10,17 +10,19 @@ permalink: /
 
 ### Plans for study
 
-- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
-
-- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
+- [NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]
 
 <br/>
 
 ### May be later
 
+- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020] (No source codes, please share sources if you have)
+
+- [ReactSecurity] Advanced React Security Patterns [ENG, 2020?]
+
 - [ReactTraining] Learn React Hooks By Building A Real Application [ENG, 2020]
 
-- [NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]
+- [Ryan Dhungel] MERN React Node Next.js Multi User SEO Blogging Platform [ENG, 2020]
 
 - [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
 
@@ -84,6 +86,8 @@ permalink: /
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">~~[Reed Barger] Build an Instagram Clone with React [ENG, 2020]~~</a>
 
 - <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">~~[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]~~</a>
 
