@@ -8,6 +8,6 @@ permalink: /frontend/angular/5/
 
 <br/>
 
-### [Lynda, Ray Villalobos] Learning Angular [2018, ENG]
+### [Lynda, Ray Villalobos] Learning Angular [ENG, 2018]
 
 https://github.com/planetoftheweb/learnangular5

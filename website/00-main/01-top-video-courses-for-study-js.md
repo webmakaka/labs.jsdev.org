@@ -16,8 +16,8 @@ My (Marley) opinion!
 
 Possible:
 
-- [Udemy. Colt Steele, Stephen Grider] The New Modern Javascript Bootcamp (2020) [2019, ENG]
-- [Udemy, Andrew Mead] The Modern JavaScript Bootcamp [2018, ENG]
+- [Udemy. Colt Steele, Stephen Grider] The New Modern Javascript Bootcamp (2020) [ENG, 2019]
+- [Udemy, Andrew Mead] The Modern JavaScript Bootcamp [ENG, 2018]
 
 <br/>
 
@@ -25,9 +25,9 @@ Possible:
 
 I do not recommend to study anything earlier than 2020.
 
-- [frontendmasters.com] Complete Intro to React, v5 [2019, ENG]
+- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019]
 
-- [frontendmasters.com] Intermediate React, v2 [2019, ENG]
+- [frontendmasters.com] Intermediate React, v2 [ENG, 2019]
 
 [link](https://github.com/webmakaka/complete-intro-to-react-v5)
 
@@ -35,19 +35,19 @@ I do not recommend to study anything earlier than 2020.
 
 ### Node.js
 
-- [Udemy, Andrew Mead] The Complete Node.js Developer Course (3rd Edition) [2019, ENG]
+- [Udemy, Andrew Mead] The Complete Node.js Developer Course (3rd Edition) [ENG, 2019]
 
 <br/>
 
 ### TypeScript
 
-- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
+- [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]
 
 <br/>
 
 ### GraphQL
 
-- [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]
+- [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]
 
 <br/>
 
@@ -59,15 +59,15 @@ I do not recommend to study anything earlier than 2020.
 
 ### Kubernetes
 
-- [Udemy, Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]
+- [Udemy, Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]
 
 <br/>
 
 ### Working on some projects
 
-- <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]</a>
+- <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]</a>
 
-- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [2018, ENG]</a>
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
 
 <br/>
 
