@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Web Developer Roadmap 2020
+description: Web Developer Roadmap 2020
+keywords: Web Developer Roadmap 2020
 permalink: /web-developer-roadmap-2020/
 ---
 

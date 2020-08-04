@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Books for study JavaScript
+description: Books for study JavaScript
+keywords: Books for study JavaScript
 permalink: /books-for-free/
 ---
 
@@ -53,4 +55,3 @@ https://github.com/javascript-society/javascript-path
 ### You-Dont-Know-JS
 
 https://github.com/getify/You-Dont-Know-JS
-

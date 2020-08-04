@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About labs.jsdev.org
+description: About labs.jsdev.org
+keywords: About labs.jsdev.org
 permalink: /about/
 ---
 

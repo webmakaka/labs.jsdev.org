@@ -39,23 +39,23 @@ less ||
 
 ## Java Script
 
-<a href="/frontend/js/">js</a> ||
-<a href="/frontend/es6/">ECMAScript 6</a>
+<a href="/client/js/">js</a> ||
+<a href="/client/es6/">ECMAScript 6</a>
 
 <br/>
 <hr/>
 
 ## Client Side Frameworks
 
-<a href="/frontend/">Frontend</a>
+<a href="/client/">Frontend</a>
 
 <br/>
 <hr/>
 
 ## Server Side Frameworks
 
-<a href="/backend/nodejs/">Node.JS</a> ||
-<a href="/backend/expressjs/">Express.JS</a>
+<a href="/server/nodejs/">Node.JS</a> ||
+<a href="/server/expressjs/">Express.JS</a>
 
 <br/>
 <hr/>

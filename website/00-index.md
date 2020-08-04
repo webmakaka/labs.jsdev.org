@@ -165,4 +165,4 @@ permalink: /
 
 **This video course can help to start working with node.js with oracle db**
 
-<a href="/backend/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/">Link</a>
+<a href="/server/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/">Link</a>

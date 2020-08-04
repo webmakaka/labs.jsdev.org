@@ -8,10 +8,9 @@ permalink: /html-templates/
 
 # HTML Templates
 
-### Learn How to Create an Animated Bootstrap Template with HTM
+### Learn How to Create an Animated Bootstrap Template with HTML
 
 https://www.youtube.com/watch?v=2dw8xO-kvtM
-
 
 <br/>
 
@@ -21,7 +20,6 @@ https://www.youtube.com/watch?v=2dw8xO-kvtM
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0ww1WoJX2CMctSGakfh9ERZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 <br/>
 
 ### Build a Photo Gallery UI using Bootstrap
@@ -29,7 +27,6 @@ https://www.youtube.com/watch?v=2dw8xO-kvtM
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0x_553Me1vht2sKtk1BoJ1f" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 <br/>
 
