@@ -16,6 +16,10 @@ permalink: /
 
 - <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
 
+- [Traversy Media] MERN eCommerce From Scratch [ENG, 2020]
+
+Preview - https://www.youtube.com/watch?v=6AI-gFM8gco
+
 <br/>
 
 ### May be later
