@@ -10,6 +10,10 @@ permalink: /
 
 ### Plans for study
 
+<br/>
+
+**Videos:**
+
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
 - [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
@@ -19,6 +23,12 @@ permalink: /
 - [Traversy Media] MERN eCommerce From Scratch [ENG, 2020]
 
 Preview - https://www.youtube.com/watch?v=6AI-gFM8gco
+
+<br/>
+
+**Books:**
+
+- <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]</a>
 
 <br/>
 
