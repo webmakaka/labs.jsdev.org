@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Site Map
+description: Site Map
+keywords: Site Map
 permalink: /sitemap/
 ---
 

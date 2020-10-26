@@ -1,12 +1,12 @@
 # Site settings
-title: labs.jsdev.org
+title: JavaScript Development Lab
 
 description: Opensource project for study modern javascript technologies, discussing some video courses etc.
 
-keywords: study, labs, course, javascript, js, node.js, react, vue.js, angular, typescript, docker, linux, kubernetes
+keywords: labs, javascript, js, node.js, react, vue.js, angular, typescript, docker, linux, kubernetes, study, course
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://labs.jsdev.org" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://labs.jsdev.org' # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
