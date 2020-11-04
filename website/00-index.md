@@ -48,13 +48,15 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
 
-- <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
+- <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
-- [Traversy Media] MERN eCommerce From Scratch [ENG, 2020]
+- <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
-Preview - https://www.youtube.com/watch?v=6AI-gFM8gco
+- <a href="https://www.youtube.com/watch?v=u5cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
 
 <br/>
 
