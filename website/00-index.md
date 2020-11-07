@@ -58,6 +58,10 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
 
+- <a href="https://www.youtube.com/watch?v=OXE2a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
+
+- <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" rel="nofollow">Scale React Development with Nx</a>
+
 <br/>
 
 **Books:**

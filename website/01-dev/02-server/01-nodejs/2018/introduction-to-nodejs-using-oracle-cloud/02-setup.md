@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Oracle MOOC - Introduction to NodeJS Using Oracle Cloud (2018)
+title: Oracle MOOC - Introduction to NodeJS Using Oracle Cloud (2018) - Setup
+description: Oracle MOOC - Introduction to NodeJS Using Oracle Cloud (2018) - Setup
+keywords: server, node.js, 2018, Oracle MOOC, Introduction to NodeJS Using Oracle Cloud, Setup
 permalink: /server/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/setup/
 ---
 
