@@ -46,11 +46,13 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
-
-- <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
+- <a href="https://www.udemy.com/course/microfrontend-course/" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
+
+- <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
+
+- <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
 - <a href="https://www.youtube.com/watch?v=u5cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
 
@@ -61,6 +63,8 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 - <a href="https://www.youtube.com/watch?v=OXE2a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
 
 - <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" rel="nofollow">Scale React Development with Nx</a>
+
+- <a href="https://www.youtube.com/watch?v=X3F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
 
 <br/>
 
