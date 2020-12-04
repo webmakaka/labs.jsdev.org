@@ -27,11 +27,13 @@ Possible:
 
 I do not recommend to study anything earlier than 2020.
 
-- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019]
+- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019](https://github.com/webmakaka/complete-intro-to-react-v5)
 
 - [frontendmasters.com] Intermediate React, v2 [ENG, 2019]
 
-[link](https://github.com/webmakaka/complete-intro-to-react-v5)
+- <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]</a>
+
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
 
 <br/>
 
@@ -65,16 +67,10 @@ I do not recommend to study anything earlier than 2020.
 
 <br/>
 
-### Working on some projects
+### Microservices
 
-- <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]</a>
-
-- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
-
-<br/>
-
-### Microservices. Splitting monolith project.
-
-docker, pm2
+<a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
 
 <a href="https://github.com/webmakaka/Mastering-Node.js-11.x">[Packt, Dimitris Loukas] Mastering Node.js 11.x. [February 28, 2019, ENG]</a>
+
+Author used docker and pm2

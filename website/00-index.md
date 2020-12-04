@@ -42,7 +42,7 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 <br/>
 
-### React Hooks
+### [Ben Awad] Fullstack React GraphQL TypeScript Tutorial [ENG, 2020]
 
 <div align="center">
 

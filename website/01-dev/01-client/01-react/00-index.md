@@ -59,12 +59,3 @@ permalink: /client/react/
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<br/>
-
-### Other
-
-<ul>
-    <li><a href="https://github.com/webmakaka/the-complete-react-web-app-developer-course">[Udemy] The Complete React Web App Developer Course [2016, ENG]</a></li>
-    <li><a href="https://github.com/webmakaka/reactjs-and-flux-learn-by-building-10-projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
-</ul>
