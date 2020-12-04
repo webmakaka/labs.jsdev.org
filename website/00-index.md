@@ -38,6 +38,50 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 <br/>
 
+## Free Tutorials
+
+<br/>
+
+### React Hooks
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/I6ypD7qv3Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### React Hooks
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### React/Node.js Microservices App With Docker and GraphQL (Hope this course is full)
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### [Harry Wolff] My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/9plIzok5LCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
 ### Plans for study
 
 <br/>
@@ -45,6 +89,8 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 **Videos:**
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
+
+- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/microfrontend-course/" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
 
@@ -56,15 +102,18 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://www.youtube.com/watch?v=u5cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
 
-- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
-
 - <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
 
 - <a href="https://www.youtube.com/watch?v=OXE2a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
 
+- <a href="https://www.youtube.com/watch?v=X3F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=KQya9i6czhM" rel="nofollow">[YouTube, Traversy Media] Two Factor Authentication | Node.js & Speakeasy
+  [ENG, 2020]</a>
+
 - <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" rel="nofollow">Scale React Development with Nx</a>
 
-- <a href="https://www.youtube.com/watch?v=X3F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
+- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
 
 <br/>
 
