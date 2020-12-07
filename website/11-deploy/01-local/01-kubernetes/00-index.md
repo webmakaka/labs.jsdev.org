@@ -16,12 +16,12 @@ permalink: /deploy/local/kubernetes/
 
 <br/>
 
-### [Udemy] The React practice course, learn by building projects [2018, ENG]
+### [Udemy] The React practice course, learn by building projects [ENG, 2018]
 
 <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects">Here</a>
 
 <br/>
 
-### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]
+### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]
 
 <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0">Here</a>

@@ -119,7 +119,9 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 **Books:**
 
-- <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]</a>
+- [Maksim Ivanov, Alex Bespoyasov] Fullstack React with TypeScript Learn Pro Patterns for Hooks, Testing, Redux, SSR, and GraphQL [ENG, 2020]
+
+- [Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]
 
 <br/>
 
