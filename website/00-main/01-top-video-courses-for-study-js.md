@@ -49,6 +49,12 @@ I do not recommend to study anything earlier than 2020.
 
 <br/>
 
+### NestJS
+
+- [Kamil Mysliwiec, Mark Pieszak] NestJS Fundamentals Course [ENG, 2020]
+
+<br/>
+
 ### GraphQL
 
 - [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]
