@@ -90,30 +90,35 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
-
-- <a href="https://www.udemy.com/course/microfrontend-course/" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
+- <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
+
+- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
+
+- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
-- <a href="https://www.youtube.com/watch?v=u5cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=w0p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=OXE2a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=X3F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=KQya9i6czhM" rel="nofollow">[YouTube, Traversy Media] Two Factor Authentication | Node.js & Speakeasy
-  [ENG, 2020]</a>
-
 - <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" rel="nofollow">Scale React Development with Nx</a>
 
-- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
+<br/>
+
+**YouTube:**
+
+
+- <a href="https://www.youtube.com/watch?v=u4cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=w-1p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=OXE1a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=X2F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=KQya8i6czhM" rel="nofollow">[YouTube, Traversy Media] Two Factor Authentication | Node.js & Speakeasy
+  [ENG, 2019]</a>
 
 <br/>
 
@@ -122,6 +127,11 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 - [Maksim Ivanov, Alex Bespoyasov] Fullstack React with TypeScript Learn Pro Patterns for Hooks, Testing, Redux, SSR, and GraphQL [ENG, 2020]
 
 - [Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]
+
+<br/>
+
+**RxJs**
+
 
 <br/>
 
