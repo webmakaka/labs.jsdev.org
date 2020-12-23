@@ -102,7 +102,7 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
-- <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" rel="nofollow">Scale React Development with Nx</a>
+- <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
 
 <br/>
 
