@@ -106,8 +106,13 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 <br/>
 
-**YouTube:**
+**Repeat:**
 
+- <a href="https://github.com/webmak1/Cloud-Native-Development-with-Node.js-Docker-and-Kubernetes" rel="nofollow">[Linkedin] Cloud Native Development with Node.js, Docker, and Kubernetes</a>
+
+<br/>
+
+**YouTube:**
 
 - <a href="https://www.youtube.com/watch?v=u4cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
 
@@ -131,7 +136,6 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 <br/>
 
 **RxJs**
-
 
 <br/>
 
