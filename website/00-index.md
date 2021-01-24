@@ -90,7 +90,7 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
+- <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
 
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
@@ -101,8 +101,6 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 - <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
 
 <br/>
 
@@ -209,6 +207,10 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
 
 - <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">~~[Reed Barger] Build an Instagram Clone with React [ENG, 2020]~~</a>
 
