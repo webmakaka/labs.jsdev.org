@@ -12,7 +12,7 @@ permalink: /deploy/local/kubernetes/
 
 ### Vagrant scripts for running kubernetes on your linux host
 
-<a href="https://sysadm.ru/devops/containers/kubernetes/kubeadm/vagrant-centos7-3-node-kubernetes-cluster/">Here</a>
+<a href="https://github.com/webmakaka/vagrant-kubernetes-3-node-cluster-ubuntu-20.04">Here</a>
 
 <br/>
 
