@@ -42,6 +42,23 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 <br/>
 
+### [nomadcoders.co]
+
+GraphQL:
+
+<br/>
+
+**GraphQL for Beginners
+**
+https://en.nomadcoders.co/graphql-for-beginners
+
+<br/>
+
+**React Graphql for Beginners:**  
+https://en.nomadcoders.co/react-graphql-for-beginners
+
+<br/>
+
 ### [Ben Awad] Fullstack React GraphQL TypeScript Tutorial [ENG, 2020]
 
 <div align="center">
@@ -90,7 +107,7 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
+- [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
 
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
