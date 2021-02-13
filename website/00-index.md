@@ -48,8 +48,7 @@ GraphQL:
 
 <br/>
 
-**GraphQL for Beginners
-**
+**GraphQL for Beginners**  
 https://en.nomadcoders.co/graphql-for-beginners
 
 <br/>
