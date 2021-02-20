@@ -44,7 +44,7 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 ### [nomadcoders.co]
 
-GraphQL:
+**GraphQL:**
 
 <br/>
 
@@ -55,6 +55,15 @@ https://en.nomadcoders.co/graphql-for-beginners
 
 **React Graphql for Beginners:**  
 https://en.nomadcoders.co/react-graphql-for-beginners
+
+<br/>
+
+**NestJS:**
+
+<br/>
+
+**NestJS Fundamentals**  
+https://en.nomadcoders.co/nestjs-fundamentals
 
 <br/>
 
