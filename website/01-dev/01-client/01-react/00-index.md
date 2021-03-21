@@ -16,11 +16,11 @@ permalink: /client/react/
 
 ### frontendmasters.com
 
-- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019]
+- [frontendmasters.com] Complete Intro to React, v6 [ENG, 2019]
 
 - [frontendmasters.com] Intermediate React, v2 [ENG, 2019]
 
-[link](https://github.com/webmakaka/complete-intro-to-react-v5)
+[link](https://github.com/webmakaka/complete-intro-to-react-v6)
 
 <br/>
 

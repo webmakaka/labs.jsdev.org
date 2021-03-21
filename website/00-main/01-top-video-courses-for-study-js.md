@@ -27,7 +27,7 @@ Possible:
 
 I do not recommend to study anything earlier than 2020.
 
-- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019](https://github.com/webmakaka/complete-intro-to-react-v5)
+- [frontendmasters.com] Complete Intro to React, v5 [ENG, 2019](https://github.com/webmakaka/complete-intro-to-react-v6)
 
 - [frontendmasters.com] Intermediate React, v2 [ENG, 2019]
 
