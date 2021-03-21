@@ -152,6 +152,8 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 **Books:**
 
+- [John Larsen] React Hooks in Action: With Suspense and Concurrent Mode [ENG, 2021]
+
 - [Maksim Ivanov, Alex Bespoyasov] Fullstack React with TypeScript Learn Pro Patterns for Hooks, Testing, Redux, SSR, and GraphQL [ENG, 2020]
 
 - [Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]
@@ -172,7 +174,7 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 - [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
 
-- [wesbos.com] Fullstack Advanced React & GraphQL [ENG, 2020] (Will be updated in 2020 by author)
+- [Wes Bos] Advanced React and GraphQL [2021, ENG]
 
 <br/>
 
