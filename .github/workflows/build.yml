@@ -2,10 +2,10 @@ name: Build
 on:
   pull_request:
     branches:
-      - gh-pages
+      - master
   push:
     branches:
-      - gh-pages
+      - master
 
 jobs:
   build:
