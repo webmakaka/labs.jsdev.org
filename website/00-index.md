@@ -127,11 +127,6 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
-<br/>
-
-**Repeat:**
-
-- <a href="https://github.com/webmak1/Cloud-Native-Development-with-Node.js-Docker-and-Kubernetes" rel="nofollow">[Linkedin] Cloud Native Development with Node.js, Docker, and Kubernetes</a>
 
 <br/>
 
