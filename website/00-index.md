@@ -117,7 +117,7 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 - [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
 
-- <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
+- [Wes Bos] Advanced React and GraphQL [2021, ENG]
 
 - [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
 
@@ -126,6 +126,10 @@ https://en.nomadcoders.co/nestjs-fundamentals
 - <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=JuiwajDL2xY" rel="nofollow">[Traversy Media] Next.js [ENG, 2021]</a>
+
+- <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
 
 <br/>
@@ -160,6 +164,8 @@ https://en.nomadcoders.co/nestjs-fundamentals
 <br/>
 
 ### May be later
+
+- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
 
 - [ReactSecurity] Advanced React Security Patterns [ENG, 2020?]
 
