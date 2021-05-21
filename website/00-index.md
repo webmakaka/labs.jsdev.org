@@ -100,9 +100,7 @@ https://en.nomadcoders.co/nestjs-fundamentals
 ### [Harry Wolff] My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)
 
 <div align="center">
-
     <iframe width="853" height="480" src="https://www.youtube.com/embed/9plIzok5LCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
 
 <br/>
@@ -115,37 +113,13 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
+- [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
 
-- [Wes Bos] Advanced React and GraphQL [2021, ENG]
-
-- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
+- [Chris Sev] Beginner Tailwind [ENG, 2021]
 
 - <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
-- <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
-
-- <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=JuiwajDL2xY" rel="nofollow">[Traversy Media] Next.js [ENG, 2021]</a>
-
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
-
-
-<br/>
-
-**YouTube:**
-
-- <a href="https://www.youtube.com/watch?v=u4cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=w-1p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=OXE1a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=X2F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
-
-- <a href="https://www.youtube.com/watch?v=KQya8i6czhM" rel="nofollow">[YouTube, Traversy Media] Two Factor Authentication | Node.js & Speakeasy
-  [ENG, 2019]</a>
 
 <br/>
 
@@ -159,11 +133,13 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 <br/>
 
-**RxJs**
-
-<br/>
-
 ### May be later
+
+- <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
+
+- <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=JuiwajDL2xY" rel="nofollow">[Traversy Media] Next.js [ENG, 2021]</a>
 
 - [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
 
@@ -176,6 +152,21 @@ https://en.nomadcoders.co/nestjs-fundamentals
 - [Filip Jerga] Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)
 
 - [Wes Bos] Advanced React and GraphQL [2021, ENG]
+
+<br/>
+
+**YouTube:**
+
+- <a href="https://www.youtube.com/watch?v=u4cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=w-1p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=OXE2a8dqIAI" rel="nofollow">[YouTube, Traversy Media] DevOps Crash Course (Docker, Terraform, and Github Actions) [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=X2F3El_yvFg" rel="nofollow">[YouTube, Traversy Media] Automatic Deployment With Github Actions [ENG, 2020]</a>
+
+- <a href="https://www.youtube.com/watch?v=KQya8i6czhM" rel="nofollow">[YouTube, Traversy Media] Two Factor Authentication | Node.js & Speakeasy
+  [ENG, 2019]</a>
 
 <br/>
 
@@ -235,6 +226,8 @@ https://en.nomadcoders.co/nestjs-fundamentals
 <br/>
 
 ### Watched
+
+- [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
 
 - <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
 
