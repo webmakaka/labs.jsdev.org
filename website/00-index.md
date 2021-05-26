@@ -38,73 +38,6 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 <br/>
 
-## Free Tutorials
-
-<br/>
-
-### [nomadcoders.co]
-
-**GraphQL:**
-
-<br/>
-
-**GraphQL for Beginners**  
-https://en.nomadcoders.co/graphql-for-beginners
-
-<br/>
-
-**React Graphql for Beginners:**  
-https://en.nomadcoders.co/react-graphql-for-beginners
-
-<br/>
-
-**NestJS:**
-
-<br/>
-
-**NestJS Fundamentals**  
-https://en.nomadcoders.co/nestjs-fundamentals
-
-<br/>
-
-### [Ben Awad] Fullstack React GraphQL TypeScript Tutorial [ENG, 2020]
-
-<div align="center">
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/I6ypD7qv3Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<br/>
-
-### React Hooks
-
-<div align="center">
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<br/>
-
-### React/Node.js Microservices App With Docker and GraphQL (Hope this course is full)
-
-<div align="center">
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<br/>
-
-### [Harry Wolff] My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/9plIzok5LCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<br/>
-
 ### Plans for study
 
 <br/>
@@ -113,7 +46,7 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
-- [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
+- [Tanner Linsley] React Query - Essentials (v2) [ENG, 2021]
 
 - [Chris Sev] Beginner Tailwind [ENG, 2021]
 
@@ -227,6 +160,8 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 ### Watched
 
+- [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
+
 - [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
 
 - <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
@@ -264,6 +199,73 @@ https://en.nomadcoders.co/nestjs-fundamentals
 <br/>
 
 **Join telegram group for discussions: https://t.me/jsdev_org**
+
+<br/>
+
+## Free Tutorials
+
+<br/>
+
+### [nomadcoders.co]
+
+**GraphQL:**
+
+<br/>
+
+**GraphQL for Beginners**  
+https://en.nomadcoders.co/graphql-for-beginners
+
+<br/>
+
+**React Graphql for Beginners:**  
+https://en.nomadcoders.co/react-graphql-for-beginners
+
+<br/>
+
+**NestJS:**
+
+<br/>
+
+**NestJS Fundamentals**  
+https://en.nomadcoders.co/nestjs-fundamentals
+
+<br/>
+
+### [Ben Awad] Fullstack React GraphQL TypeScript Tutorial [ENG, 2020]
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/I6ypD7qv3Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### React Hooks
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### React/Node.js Microservices App With Docker and GraphQL (Hope this course is full)
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### [Harry Wolff] My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/9plIzok5LCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
