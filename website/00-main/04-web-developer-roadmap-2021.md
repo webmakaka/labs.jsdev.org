@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Web Developer Roadmap 2020
-description: Web Developer Roadmap 2020
-keywords: Web Developer Roadmap 2020
-permalink: /web-developer-roadmap-2020/
+title: Web Developer Roadmap 2021
+description: Web Developer Roadmap 2021
+keywords: Web Developer Roadmap 2021
+permalink: /web-developer-roadmap-2021/
 ---
 
-# Web Developer Roadmap 2020
+# Web Developer Roadmap 2021
 
 <br/>
 
