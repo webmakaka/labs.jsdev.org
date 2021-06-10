@@ -8,51 +8,19 @@ permalink: /
 
 <br/>
 
-### Hello \${userName}, if you watch video courses and read books, please share interesting projects with us!
-
-Please use docker and kubernetes to deploy results with a few commands.
-
-You can use minikube or <a href="https://github.com/webmakaka/vagrant-kubernetes-3-node-cluster-centos7">local kubernetes cluster</a> for this purposes.
-
----
-
-For now I am watching a very interesting course <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
-
-Can recommend this course to anyone who wants to study react / typescript / graphq.
-
-I am trying to use latest packages and I use **skaffold** for develop apps right in **kubernetes**.
-
-**Final Project should be:**  
-https://www.tinyhouse.app/
-
-If you watch this course, please send me link to your repo.
-
----
-
-<br/>
-
-**Marley**
-
-Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
-Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
-
-<br/>
-
 ### Plans for study
 
 <br/>
 
 **Videos:**
 
-- <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
+- <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
 
 - [Tanner Linsley] React Query - Essentials (v2) [ENG, 2021]
 
 - [Chris Sev] Beginner Tailwind [ENG, 2021]
 
 - <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
-
-- <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
 <br/>
 
@@ -68,17 +36,13 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 ### May be later
 
+- <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
+
 - <a href="https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/" rel="nofollow">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</a>
 
 - <a href="https://www.udemy.com/course/mern-ecommerce/" rel="nofollow">[Traversy Media] MERN eCommerce From Scratch [ENG, 2020]</a>
 
 - <a href="https://www.youtube.com/watch?v=JuiwajDL2xY" rel="nofollow">[Traversy Media] Next.js [ENG, 2021]</a>
-
-- [FrontendMasters] JavaScript and TypeScript Monorepos [ENG, 2020]
-
-- [ReactSecurity] Advanced React Security Patterns [ENG, 2020?]
-
-- [ReactTraining] Learn React Hooks By Building A Real Application [ENG, 2020]
 
 - [Ryan Dhungel] MERN React Node Next.js Multi User SEO Blogging Platform [ENG, 2020]
 
@@ -105,60 +69,13 @@ Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 
 ### Possible can be interesting
 
-- \_ [Stephen Grider] GraphQL with React: The Complete Developers Guide [ENG, 2019 Update]
-
-- [John Smilga] React Tutorial and Projects Course
-
-- [Stephen Grider] Node JS: Advanced Concepts [ENG, 2019 Update]
-
-- \_ [Stephen Grider] Modern React with Redux [ENG, 2019 Update]
-
-- [Stephen Grider] Ethereum and Solidity: The Complete Developer's Guide [ENG, 2018]
-
 - <a href="https://github.com/webmakaka/Master-Full-Stack-Web-Development-Node-SQL-React-and-More" rel="nofollow">[David Joseph Katz] Master Full-Stack Web Development | Node, SQL, React, &amp; More [ENG, 2018]</a>
-
-* [Reed Barger] Universal React with Next.js - The Ultimate Guide [ENG, 2018]
-
-* [Stephen Grider] Machine Learning with Javascript [ENG, 2018]
-
-* [Tim Ermilov] - Exploring Docker images optimizations for Node.js [ENG, 2018] https://www.youtube.com/watch?v=VF_UeW_l_rY
-
-* [Stephen Grider] Electron for Desktop Apps: The Complete Developer's Guide [2017, ENG]
-
-* [Stephen Grider] The Complete React Native and Redux Course [ENG]
-
-* [Stephen Grider] React Native: Advanced Concepts [ENG]
-
-- [Traversy Media
-  ] Build a Node.js App With Sequelize [ENG, 2018] - https://www.youtube.com/watch?v=bOHysWYMZM0
-
-- [Stephen Grider] The Complete Developers Guide to MongoDB [ENG]
-
-- [Stephen Grider] GraphQL with React: The Complete Developers Guide [ENG]
-
-- [Udemy] Design Patterns with JavaScript ES5/6 and Node.js|From zero [ENG]
-
-- [Udemy] React - Mastering Test Driven Development [ENG]
-
-- [Packtpub] Professional Node.js
-
-- Pluralsight - API Design in Node.js Featuring Express Mongo
-
-- Learn How to Use Closures in Javascipt | Eduonix https://www.youtube.com/watch?v=NTOyWEk3pnM
-
-- Learning Microservices With Express.js & MongoDB - https://www.youtube.com/watch?v=gF8IYisXByw&list=PLDmvslp_VR0xZGhJHMjy5dozCDJYZK6W-
-- BxJS - Building a high-availability chat with Node.js, Redis and Docker - https://www.youtube.com/watch?v=shJo8Wj7jMA
-- Simple Machine Learning With JavaScript - Brain.js - https://www.youtube.com/watch?v=RVMHhtTqUxc
-- [Lynda.com Sasha Vodnik] JavaScript: Closures [ENG, 2018]
-- [Lynda] Node.js: Design Patterns [ENG, 2018]
-
-* Blockchain Development With NodeJS (https://www.youtube.com/watch?v=av9HRXEVDWc)
-* Learn Angular 5 in 30 minutes Eduonix (https://www.youtube.com/watch?v=_tEZgpmxKck)
-* Machine Learning Tutorial for Beginners - USING JAVASCRIPT! (https://www.youtube.com/watch?v=9Hz3P1VgLz4&t=0s)
 
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
 - [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
 
