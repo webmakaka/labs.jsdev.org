@@ -20,6 +20,8 @@ permalink: /
 
 - [Chris Sev] Beginner Tailwind [ENG, 2021]
 
+- [Chris Sev] Making a Next.js Site with MDX [ENG, 2021] - https://www.youtube.com/watch?v=58Jm5GQ536s
+
 - <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
 <br/>
