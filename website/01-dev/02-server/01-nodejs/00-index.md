@@ -49,18 +49,3 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh
 ### Socket.io Chat App Using Websockets
 
 <a href="http://www.youtube.com/watch?v=tHbCkikFfDE" rel="nofollow">Socket.io Chat App Using Websockets</a>
-
-<br/>
-
-### Node.JS Articles
-
-<a href="https://codeforgeek.com/2016/08/token-based-authentication-using-nodejs-rethinkdb/" rel="nofollow">[YouTube, Brad Traversy] Building token based authentication using NodeJs and RethinkDB</a>  
-<a href="https://codeforgeek.com/2016/09/10-things-running-node-js-production/" rel="nofollow">10 things you should do while running Node.js in production</a>
-
-<a href="https://codeforgeek.com/2016/06/node-js-redis-tutorial-building-email-verification-system/" rel="nofollow">Node.js and Redis tutorial – Building Email verification system</a> and <a href="https://codeforgeek.com/2016/06/nodejs-mandrill-integration/" rel="nofollow">here</a>
-
-<a href="https://codeforgeek.com/2016/06/node-js-redis-tutorial-installation-commands/" rel="nofollow">Node.js-and-Redis-tutorial-Installation-and-commands</a>
-
-<a href="https://codeforgeek.com/2016/04/continuous-integration-deployment-jenkins-node-js/" rel="nofollow">Continuous-Integration-and-deployment-with-Jenkins-and-Node.js</a>
-
-<a href="https://codeforgeek.com/2016/03/hosting-node-js-app-to-digitalocean-server/" rel="nofollow">Hosting Node.js app to DigitalOcean Server</a>
