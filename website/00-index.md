@@ -14,15 +14,17 @@ permalink: /
 
 **Videos:**
 
-- <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
+- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
 - [Tanner Linsley] React Query - Essentials (v2) [ENG, 2021]
 
-- [Chris Sev] Beginner Tailwind [ENG, 2021]
+- [Udemy] React, React Redux and Redux Saga - Master React State/Hooks
+
+- <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
 
 - [Chris Sev] Making a Next.js Site with MDX [ENG, 2021] - https://www.youtube.com/watch?v=58Jm5GQ536s
 
-- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
+- [Brad Traversy] Static Blog With Next.js and Markdown [ENG, 2021] - https://www.youtube.com/watch?v=MrjeefD8sac
 
 <br/>
 
@@ -76,6 +78,8 @@ permalink: /
 <br/>
 
 ### Watched
+
+- <a href="https://github.com/webmakaka/Beginner-Tailwind" rel="nofollow">[Chris Sev] Beginner Tailwind [ENG, 2021]</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
