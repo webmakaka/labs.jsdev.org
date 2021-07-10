@@ -20,6 +20,8 @@ permalink: /
 
 - [Udemy] React, React Redux and Redux Saga - Master React State/Hooks
 
+- [Lama Dev] React Node.js Social Media App Tutorial - https://www.youtube.com/watch?v=pFHyZvVxce0
+
 - <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
 
 - [Chris Sev] Making a Next.js Site with MDX [ENG, 2021] - https://www.youtube.com/watch?v=58Jm5GQ536s
