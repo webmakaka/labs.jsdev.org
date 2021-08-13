@@ -14,19 +14,23 @@ permalink: /
 
 **Videos:**
 
-- <a href="https://www.udemy.com/course/test-driven-development-with-nodejs/" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
+- <a href="https://github.com/webmakaka/Test-Driven-Development-with-Nodejs" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
+
+- [Udemy] TS DesignPatterns
+
+- [Udemy] Build Telegram Bots with JavaScript: The Complete Guide
+
+- [[YouTube, Lama Dev] React Node.js Social Media App Tutorial](https://www.youtube.com/watch?v=pFHyZvVxce0)
 
 - [Tanner Linsley] React Query - Essentials (v2) [ENG, 2021]
 
-- [Udemy] React, React Redux and Redux Saga - Master React State/Hooks
-
-- [Lama Dev] React Node.js Social Media App Tutorial - https://www.youtube.com/watch?v=pFHyZvVxce0
+- [[YouTube, Sonny Sangha] Let's build Facebook 2.0 with REACT.JS! (Next.js, Tailwind CSS, Image Uploading, Facebook Login) [ENG, 2021]](https://www.youtube.com/watch?v=dBotWYKYYWc)
 
 - <a href="https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project" rel="nofollow">[Stephen Grider] React and Typescript: Build a Portfolio Project [ENG, 2021]</a>
 
-- [Chris Sev] Making a Next.js Site with MDX [ENG, 2021] - https://www.youtube.com/watch?v=58Jm5GQ536s
+- [[YouTube, Chris Sev] Making a Next.js Site with MDX [ENG, 2021]](https://www.youtube.com/watch?v=58Jm5GQ536s)
 
-- [Brad Traversy] Static Blog With Next.js and Markdown [ENG, 2021] - https://www.youtube.com/watch?v=MrjeefD8sac
+- [[YouTube, Brad Traversy] Static Blog With Next.js and Markdown [ENG, 2021]](https://www.youtube.com/watch?v=MrjeefD8sac)
 
 <br/>
 
@@ -81,6 +85,8 @@ permalink: /
 
 ### Watched
 
+- [[Udemy, Icaro Lavrador] React, React Redux and Redux Saga - Master React State/Hooks [ENG, 2021]](https://github.com/webmakaka/React-React-Redux-and-Redux-Saga-Master-React-State-Hooks)
+
 - <a href="https://github.com/webmakaka/Beginner-Tailwind" rel="nofollow">[Chris Sev] Beginner Tailwind [ENG, 2021]</a>
 
 - <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
@@ -93,33 +99,33 @@ permalink: /
 
 - <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
 
-- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">~~[Reed Barger] Build an Instagram Clone with React [ENG, 2020]~~</a>
+- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">~~[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]~~</a>
+- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">~~[Stephen Grider] Microservices with Node JS and React [ENG, 2020]~~</a>
+- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">~~[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]~~</a>
+- <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]</a>
 
-- <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">~~[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]~~</a>
+- <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]</a>
 
-- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">~~[Udemy] The React practice course, learn by building projects [ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
 
-- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">~~[Stephen Grider] Server Side Rendering with React and Redux [ENG, 2017]~~</a>
+- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">[Stephen Grider] Server Side Rendering with React and Redux [ENG, 2017]</a>
 
-- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">~~[Stephen Grider] Advanced React and Redux: 2018 Edition [ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">[Stephen Grider] Advanced React and Redux: 2018 Edition [ENG, 2018]</a>
 
-- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">~~[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]~~</a>
+- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]</a>
 
-- <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">~~[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [ENG, 2018]</a>
 
-- <a href="https://github.com/webmakaka/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">~~[Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]~~</a>
+- <a href="https://github.com/webmakaka/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">[Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]</a>
 
-- <a href="https://github.com/webmakaka/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">~~[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]~~</a>
+- <a href="https://github.com/webmakaka/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]</a>
 
-- ~~Creating Apps With Angular, Node, and Token Authentication [2014, ENG]~~
+- Creating Apps With Angular, Node, and Token Authentication [2014, ENG]
 
-* <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">~~[Lynda, Ray Villalobos] Learning Angular [ENG, 2018]~~</a>
+* <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">[Lynda, Ray Villalobos] Learning Angular [ENG, 2018]</a>
 
 <br/>
 
