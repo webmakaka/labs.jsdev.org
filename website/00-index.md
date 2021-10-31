@@ -14,9 +14,11 @@ permalink: /
 
 **Videos:**
 
+- <a href="https://github.com/webmakaka/Complete-Next.js-Developer-in-2022-Zero-to-Mastery" rel="nofollow">[Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]</a>
+
 - <a href="https://github.com/webmakaka/Test-Driven-Development-with-Nodejs" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
-- [Udemy] TS DesignPatterns
+- [Udemy] TS Design Patterns
 
 - [Udemy] Build Telegram Bots with JavaScript: The Complete Guide
 
