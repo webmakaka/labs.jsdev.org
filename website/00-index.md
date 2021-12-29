@@ -14,7 +14,25 @@ permalink: /
 
 **Videos:**
 
+- [Stephen Grider] NestJS: The Complete Developer’s Guide [ENG, 2021]
+
 - <a href="https://github.com/webmakaka/Complete-Next.js-Developer-in-2022-Zero-to-Mastery" rel="nofollow">[Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]</a>
+
+- [Laith Harb] Modern GraphQL with Node - Complete Developers Guide [ENG, 2021]
+
+<br/>
+
+**Books:**
+
+- [John Larsen] React Hooks in Action: With Suspense and Concurrent Mode [ENG, 2021]
+
+- [Maksim Ivanov, Alex Bespoyasov] Fullstack React with TypeScript Learn Pro Patterns for Hooks, Testing, Redux, SSR, and GraphQL [ENG, 2020]
+
+- [Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]
+
+<br/>
+
+### May be later
 
 - <a href="https://github.com/webmakaka/Test-Driven-Development-with-Nodejs" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
@@ -33,20 +51,6 @@ permalink: /
 - [[YouTube, Chris Sev] Making a Next.js Site with MDX [ENG, 2021]](https://www.youtube.com/watch?v=58Jm5GQ536s)
 
 - [[YouTube, Brad Traversy] Static Blog With Next.js and Markdown [ENG, 2021]](https://www.youtube.com/watch?v=MrjeefD8sac)
-
-<br/>
-
-**Books:**
-
-- [John Larsen] React Hooks in Action: With Suspense and Concurrent Mode [ENG, 2021]
-
-- [Maksim Ivanov, Alex Bespoyasov] Fullstack React with TypeScript Learn Pro Patterns for Hooks, Testing, Redux, SSR, and GraphQL [ENG, 2020]
-
-- [Mario Casciaro] Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition [ENG, 2020]
-
-<br/>
-
-### May be later
 
 - <a href="https://www.udemy.com/course/sql-and-postgresql/" rel="nofollow">[Stephen Grider] SQL and PostgreSQL: The Complete Developer's Guide [ENG, 2020]</a>
 
