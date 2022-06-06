@@ -70,6 +70,11 @@ permalink: /
 
 **YouTube:**
 
+
+
+- <a href="https://www.youtube.com/watch?v=BcLNfwF04Kw" rel="nofollow">[YouTube, Traversy Media] GraphQL Crash Course With Full Stack MERN Project
+ [ENG, 2022]</a>
+
 - <a href="https://www.youtube.com/watch?v=u4cLK1UrFyQ" rel="nofollow">[YouTube, Traversy Media] Intro To JavaScript Unit Testing & BDD (2 Hour+ Course) [ENG, 2020]</a>
 
 - <a href="https://www.youtube.com/watch?v=w-1p7ywfHesw" rel="nofollow">[YouTube, Traversy Media] Full Stack Photobook App | Vue, GraphQL, AWS Amplify [ENG, 2020]</a>
