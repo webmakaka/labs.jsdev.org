@@ -14,7 +14,11 @@ permalink: /
 
 **Videos:**
 
+- [Brad Traversy] Tailwind CSS From Scratch | Learn By Building Projects [ENG, 2022]
+
 - [Stephen Grider] NestJS: The Complete Developer’s Guide [ENG, 2021]
+
+- [Stephen Grider] Redis: The Complete Developer’s Guide [ENG, ???]
 
 - <a href="https://github.com/webmakaka/Complete-Next.js-Developer-in-2022-Zero-to-Mastery" rel="nofollow">[Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]</a>
 
@@ -68,9 +72,7 @@ permalink: /
 
 <br/>
 
-**YouTube:**
-
-
+**YouTube:**  
 
 - <a href="https://www.youtube.com/watch?v=BcLNfwF04Kw" rel="nofollow">[YouTube, Traversy Media] GraphQL Crash Course With Full Stack MERN Project
  [ENG, 2022]</a>
