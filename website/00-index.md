@@ -10,6 +10,16 @@ permalink: /
 
 ### Plans for study
 
+
+<br/>
+
+### Build a SaaS AI Companion with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/PjYWpd7xkaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 <br/>
 
 **Videos:**
@@ -193,15 +203,6 @@ https://en.nomadcoders.co/nestjs-fundamentals
 
 </div>
 
-<br/>
-
-### React/Node.js Microservices App With Docker and GraphQL (Hope this course is full)
-
-<div align="center">
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 <br/>
 
