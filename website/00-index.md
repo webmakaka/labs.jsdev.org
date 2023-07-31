@@ -16,9 +16,10 @@ permalink: /
 ### Build a SaaS AI Companion with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
 
 <div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/PjYWpd7xkaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/PjYWpd7xkaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 <br/>
 
