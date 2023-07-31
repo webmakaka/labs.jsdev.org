@@ -29,6 +29,8 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
+### May be later
+
 **Videos:**
 
 - [Brad Traversy] Tailwind CSS From Scratch | Learn By Building Projects [ENG, 2022]
@@ -53,7 +55,7 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
-### May be later
+### No time for
 
 - <a href="https://github.com/webmakaka/Test-Driven-Development-with-Nodejs" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
