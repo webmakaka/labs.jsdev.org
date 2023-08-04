@@ -10,12 +10,15 @@ permalink: /
 
 ## Plans for study
 
+### [[YouTube] [procademy] A Complete Angular Course from Scratch [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
 
-### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
+### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
+
+### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
 
 https://github.com/leelanarasimha/rxjs-basics
 
-### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021]](https://www.youtube.com/playlist?list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX)
+### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021][11 hours, 39 minutes, 15 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX)
 
 <br/>
 
