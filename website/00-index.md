@@ -22,6 +22,8 @@ https://github.com/leelanarasimha/rxjs-basics
 
 ## Plans for study React
 
+### [Book] React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with ease and create powerful user experiences, 4th Edition [ENG, 2023]
+
 ### [YouTube] Build a SaaS AI Companion with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial [ENG, 2023]
 
 <div align="center">
