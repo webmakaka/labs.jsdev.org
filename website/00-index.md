@@ -16,6 +16,10 @@ permalink: /
 
 https://github.com/leelanarasimha/rxjs-basics
 
+
+### [[YouTube] [Leela Web Dev] Declarative Reactive Programming using RxJS in Angular [ENG, 2023][6 hours, 23 minutes, 54 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLberdNLX5idpheqHLjdZltJy)
+
+
 ### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021][11 hours, 39 minutes, 15 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX)
 
 <br/>
