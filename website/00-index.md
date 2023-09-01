@@ -37,6 +37,20 @@ https://github.com/leelanarasimha/rxjs-basics
 
 </div>
 
+### [YouTube] Build and Deploy 3 Apps with React, Next.js, and React Native in 7 Hours [ENG, 2023]
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/A6g8xc0MoiY?si=1K2xB9DY2IgakNcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+</div>
+
+### [YouTube] React 18 Course [ENG, 2023]
+
+https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZCLku
+
 <br/>
 
 ### May be later
