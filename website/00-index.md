@@ -27,7 +27,17 @@ https://github.com/leelanarasimha/rxjs-basics
 
 ## Plans for study React
 
-### [Book] React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with ease and create powerful user experiences, 4th Edition [ENG, 2023]
+<br/>
+
+### [YouTube] Build and Deploy 3 Apps with React, Next.js, and React Native in 7 Hours [ENG, 2023]
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/A6g8xc0MoiY?si=1K2xB9DY2IgakNcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+<br/>
 
 ### [YouTube] Build a SaaS AI Companion with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial [ENG, 2023]
 
@@ -37,19 +47,15 @@ https://github.com/leelanarasimha/rxjs-basics
 
 </div>
 
-### [YouTube] Build and Deploy 3 Apps with React, Next.js, and React Native in 7 Hours [ENG, 2023]
-
-<div align="center">
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/A6g8xc0MoiY?si=1K2xB9DY2IgakNcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-</div>
 
 ### [YouTube] React 18 Course [ENG, 2023]
 
 https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZCLku
+
+<br/>
+
+### [Book] React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with ease and create powerful user experiences, 4th Edition [ENG, 2023]
+
 
 <br/>
 
