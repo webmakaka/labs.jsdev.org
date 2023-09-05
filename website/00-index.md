@@ -31,6 +31,8 @@ https://github.com/leelanarasimha/rxjs-basics
 
     <iframe  width="853" height="480" src="https://www.youtube.com/embed/videoseries?si=VLRrorrmkDVo23Uz&amp;list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+</div>
+
 <br/>
 
 ## Plans for study React
