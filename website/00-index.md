@@ -25,7 +25,25 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
+### [YouTube] [SDET- QA Automation Techie] Cypress - JavaScript End to End Testing [ENG, 2022]
+
+<div align="center">
+
+    <iframe  width="853" height="480" src="https://www.youtube.com/embed/videoseries?si=VLRrorrmkDVo23Uz&amp;list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+
 ## Plans for study React
+
+<br/>
+
+### [YouTube] [Leela Web Dev] React 18 Course [ENG, 2023]
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?si=8ocaWg8QvBE7N-Q7&amp;list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZCLku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 <br/>
 
