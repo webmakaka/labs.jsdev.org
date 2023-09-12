@@ -10,8 +10,6 @@ permalink: /
 
 ## Plans for study Angular
 
-### [[YouTube] [procademy] A Complete Angular Course from Scratch [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
-
 ### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
 
 https://github.com/leelanarasimha/rxjs-basics
@@ -22,6 +20,8 @@ https://github.com/leelanarasimha/rxjs-basics
 ### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021][11 hours, 39 minutes, 15 seconds]](https://github.com/wildmakaka/angular-ngrx-complete-course-tutorial)
 
 ### [[YouTube] [Leela Web Dev] Angular Unit Testing Course [ENG, 2022][6 hours, 22 minutes, 49 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV)
+
+### [[YouTube] [procademy] A Complete Angular Course from Scratch (Looks author stopped record) [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
 
 <br/>
 
@@ -76,6 +76,18 @@ https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZC
 
 ### [Book] React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with ease and create powerful user experiences, 4th Edition [ENG, 2023]
 
+
+<br/>
+
+## Plans for study Next
+
+<br/>
+
+### [Video Course] Mastering Next.js 13 with TypeScript [ENG, 2023]
+
+<br/>
+
+### [Video Course] The Next.js 13 Bootcamp – The Complete Developer Guide [ENG, 2023]
 
 <br/>
 
