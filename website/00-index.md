@@ -1,10 +1,11 @@
 ---
 layout: page
-title: JavaScript Development Lab
+title: JavaScript Development Labs
+description: JavaScript Development Labs
 permalink: /
 ---
 
-# JavaScript Development Lab
+# JavaScript Development Labs
 
 
 <br/>
