@@ -6,32 +6,19 @@ permalink: /
 
 # JavaScript Development Lab
 
-<br/>
-
-## Plans for study Angular
-
-### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
-
-https://github.com/leelanarasimha/rxjs-basics
-
-
-### [[YouTube] [Leela Web Dev] Declarative Reactive Programming using RxJS in Angular [ENG, 2021][6 hours, 23 minutes, 54 seconds]](https://github.com/wildmakaka/Angular-Declarative-Reactive-Programming-using-RxJS)
-
-### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021][11 hours, 39 minutes, 15 seconds]](https://github.com/wildmakaka/angular-ngrx-complete-course-tutorial)
-
-### [[YouTube] [Leela Web Dev] Angular Unit Testing Course [ENG, 2022][6 hours, 22 minutes, 49 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV)
-
-### [[YouTube] [procademy] A Complete Angular Course from Scratch (Looks author stopped record) [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
 
 <br/>
 
-### [YouTube] [SDET- QA Automation Techie] Cypress - JavaScript End to End Testing [ENG, 2022]
+## Plans for study Next
 
-<div align="center">
+<br/>
 
-    <iframe  width="853" height="480" src="https://www.youtube.com/embed/videoseries?si=VLRrorrmkDVo23Uz&amp;list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### [[Video Course][Laith Harb] The Next.js 13 Bootcamp - The Complete Developer Guide [ENG, 2023]](https://github.com/webmakaka/The-Next.js-13-Bootcamp-The-Complete-Developer-Guide)
 
-</div>
+
+<br/>
+
+### [Video Course] Mastering Next.js 13 with TypeScript [ENG, 2023]
 
 <br/>
 
@@ -76,22 +63,94 @@ https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZC
 
 ### [Book] React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with ease and create powerful user experiences, 4th Edition [ENG, 2023]
 
+<br/>
+
+## Plans for study Angular
+
+
+### [[YouTube] [Leela Web Dev] Angular Unit Testing Course [ENG, 2022][6 hours, 22 minutes, 49 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV)
+
+### [[YouTube] [procademy] A Complete Angular Course from Scratch (Looks author stopped record) [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
+
 
 <br/>
 
-## Plans for study Next
+### Already Watched
 
 <br/>
 
-### [Video Course] Mastering Next.js 13 with TypeScript [ENG, 2023]
+## Plans for study Angular
+
+### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
+
+https://github.com/leelanarasimha/rxjs-basics
+
+### [[YouTube] [Leela Web Dev] Declarative Reactive Programming using RxJS in Angular [ENG, 2021][6 hours, 23 minutes, 54 seconds]](https://github.com/wildmakaka/Angular-Declarative-Reactive-Programming-using-RxJS)
+
+### [[YouTube] [Leela Web Dev] Angular NGRX Complete Course Tutorial [ENG, 2021][11 hours, 39 minutes, 15 seconds]](https://github.com/wildmakaka/angular-ngrx-complete-course-tutorial)
 
 <br/>
 
-### [Video Course] The Next.js 13 Bootcamp – The Complete Developer Guide [ENG, 2023]
+### [YouTube] [SDET- QA Automation Techie] Cypress - JavaScript End to End Testing [ENG, 2022]
+
+<div align="center">
+
+    <iframe  width="853" height="480" src="https://www.youtube.com/embed/videoseries?si=VLRrorrmkDVo23Uz&amp;list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
 
 <br/>
 
-### May be later
+### Watched a long time ago
+
+- [[Udemy, Icaro Lavrador] React, React Redux and Redux Saga - Master React State/Hooks [ENG, 2021]](https://github.com/webmakaka/React-React-Redux-and-Redux-Saga-Master-React-State-Hooks)
+
+- <a href="https://github.com/webmakaka/Beginner-Tailwind" rel="nofollow">[Chris Sev] Beginner Tailwind [ENG, 2021]</a>
+
+- <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
+
+- [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
+
+- [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
+
+- <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
+
+- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]</a>
+
+- <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]</a>
+
+- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
+
+- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">[Stephen Grider] Server Side Rendering with React and Redux [ENG, 2017]</a>
+
+- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">[Stephen Grider] Advanced React and Redux: 2018 Edition [ENG, 2018]</a>
+
+- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]</a>
+
+- <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [ENG, 2018]</a>
+
+- <a href="https://github.com/webmakaka/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">[Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]</a>
+
+- <a href="https://github.com/webmakaka/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]</a>
+
+- Creating Apps With Angular, Node, and Token Authentication [2014, ENG]
+
+* <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">[Lynda, Ray Villalobos] Learning Angular [ENG, 2018]</a>
+
+
+
+<br/>
+
+### May be later (I am afraid no)
 
 **Videos:**
 
@@ -170,51 +229,6 @@ https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZC
   [ENG, 2019]</a>
 
 
-<br/>
-
-### Watched
-
-- [[Udemy, Icaro Lavrador] React, React Redux and Redux Saga - Master React State/Hooks [ENG, 2021]](https://github.com/webmakaka/React-React-Redux-and-Redux-Saga-Master-React-State-Hooks)
-
-- <a href="https://github.com/webmakaka/Beginner-Tailwind" rel="nofollow">[Chris Sev] Beginner Tailwind [ENG, 2021]</a>
-
-- <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL" rel="nofollow">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
-
-- [[Wes Bos] Advanced React and GraphQL [2021, ENG]](https://github.com/webmakaka/Advanced-React-and-GraphQL)
-
-- [[nomadcoders.co] Uber Eats Clone [ENG, 2020]](https://github.com/webmakaka/Uber-Eats-Clone)
-
-- <a href="https://github.com/webmakaka/Microfrontends-with-React-A-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/Scale-React-Development-with-Nx" rel="nofollow">Scale React Development with Nx</a>
-
-- <a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/Typescript-The-Complete-Developers-Guide" rel="nofollow">[Stephen Grider] Typescript: The Complete Developer's Guide [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/Microservices-with-Node-JS-and-React" rel="nofollow">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]</a>
-
-- <a href="https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL" rel="nofollow">[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [ENG, 2019]</a>
-
-- <a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects" rel="nofollow">[Udemy] The React practice course, learn by building projects [ENG, 2018]</a>
-
-- <a href="https://github.com/webmakaka/Server-Side-Rendering-with-React-and-Redux" rel="nofollow">[Stephen Grider] Server Side Rendering with React and Redux [ENG, 2017]</a>
-
-- <a href="https://github.com/webmakaka/Advanced-React-and-Redux-2018-Edition" rel="nofollow">[Stephen Grider] Advanced React and Redux: 2018 Edition [ENG, 2018]</a>
-
-- <a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow">[Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [ENG, 2019]</a>
-
-- <a href="https://github.com/webmakaka/Full-Stack-React-with-GraphQL-and-Apollo-Boost" rel="nofollow">[Udemy, Reed Barger] Full-Stack React with GraphQL and Apollo Boost [ENG, 2018]</a>
-
-- <a href="https://github.com/webmakaka/Docker-and-Kubernetes-The-Complete-Guide" rel="nofollow">[Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]</a>
-
-- <a href="https://github.com/webmakaka/learning-full-stack-javascript-development-mongodb-node-and-react" rel="nofollow">[Samer Buna] Learning Full-Stack JavaScript Development: MongoDB, Node and React [2016, ENG]</a>
-
-- Creating Apps With Angular, Node, and Token Authentication [2014, ENG]
-
-* <a href="https://github.com/planetoftheweb/learnangular5" rel="nofollow">[Lynda, Ray Villalobos] Learning Angular [ENG, 2018]</a>
 
 <br/>
 
