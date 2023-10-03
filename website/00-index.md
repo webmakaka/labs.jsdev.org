@@ -68,19 +68,20 @@ https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZC
 
 ## Plans for study Angular
 
+<br/>
 
 ### [[YouTube] [Leela Web Dev] Angular Unit Testing Course [ENG, 2022][6 hours, 22 minutes, 49 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV)
 
-### [[YouTube] [procademy] A Complete Angular Course from Scratch (Looks author stopped record) [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
+### [[YouTube] [procademy] A Complete Angular Course from Scratch (Looks author stopped record new videos) [ENG, 2023]](https://github.com/webmakaka/A-Complete-Angular-Course-from-Scratch)
 
 
 <br/>
 
-### Already Watched
+## Already Watched
 
 <br/>
 
-## Plans for study Angular
+## Angular
 
 ### [[YouTube] [Leela Web Dev] RxJS Complete Course Guide [ENG, 2021][17 hours, 43 minutes, 25 seconds]](https://www.youtube.com/playlist?list=PL_euSNU_eLbc0HclFbirIaMXaXzQJ_K4n)
 
@@ -103,7 +104,7 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
-### Watched a long time ago
+## Watched a long time ago
 
 - [[Udemy, Icaro Lavrador] React, React Redux and Redux Saga - Master React State/Hooks [ENG, 2021]](https://github.com/webmakaka/React-React-Redux-and-Redux-Saga-Master-React-State-Hooks)
 
@@ -151,7 +152,7 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
-### May be later (I am afraid no)
+## May be later (I am afraid no)
 
 **Videos:**
 
@@ -177,7 +178,7 @@ https://github.com/leelanarasimha/rxjs-basics
 
 <br/>
 
-### No time for
+## No time for
 
 - <a href="https://github.com/webmakaka/Test-Driven-Development-with-Nodejs" rel="nofollow">[Udemy] Test Driven Development with Node js [ENG, 2020]</a>
 
