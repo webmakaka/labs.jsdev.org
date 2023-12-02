@@ -12,8 +12,11 @@ permalink: /
 
 ## Plans for study Next.js
 
-[[YouTube][Becodemy] Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js [ENG, 2023]](https://github.com/webmakaka/Food-Delivery-Web-Application-using-Microservice-Architecture-with-Nest.js-GraphQL-Next.js)
+### [[YouTube][Becodemy] Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js [ENG, 2023]](https://github.com/webmakaka/Food-Delivery-Web-Application-using-Microservice-Architecture-with-Nest.js-GraphQL-Next.js)
 
+<br/>
+
+### [[YouTube][JavaScript Mastery] Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe [ENG, 2023]](https://www.youtube.com/watch?v=3JUsg-WsU9o)
 
 <br/>
 
