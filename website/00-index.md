@@ -10,16 +10,10 @@ permalink: /
 
 <br/>
 
-## Plans for study Next
+## Plans for study Next.js
 
-<br/>
+[[YouTube][Becodemy] Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js [ENG, 2023]](https://github.com/webmakaka/Food-Delivery-Web-Application-using-Microservice-Architecture-with-Nest.js-GraphQL-Next.js)
 
-### [[Video Course][Laith Harb] The Next.js 13 Bootcamp - The Complete Developer Guide [ENG, 2023]](https://github.com/webmakaka/The-Next.js-13-Bootcamp-The-Complete-Developer-Guide)
-
-
-<br/>
-
-### [Video Course] Mastering Next.js 13 with TypeScript [ENG, 2023]
 
 <br/>
 
@@ -78,6 +72,15 @@ https://www.youtube.com/watch?v=ny6U9OpuJfY&list=PL_euSNU_eLbfR85E_hrFpIx7_-tCZC
 <br/>
 
 ## Already Watched
+
+## Next.js
+
+<br/>
+
+### [[Video Course][Laith Harb] The Next.js 13 Bootcamp - The Complete Developer Guide [ENG, 2023]](https://github.com/webmakaka/The-Next.js-13-Bootcamp-The-Complete-Developer-Guide)
+
+### [[Code With Mosh] Next.js Projects: Build an Issue Tracker [ENG, 2023]](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker)
+
 
 <br/>
 
